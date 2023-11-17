@@ -15,13 +15,11 @@
                     "value": "$proxy_add_x_forwarded_for"
                 },
                 {
-                    "regions": ["sin1"]
-                },
-                {
                     "key": "Host",
                     "value": "$http_host"
                 }
             ]
         }
     ]
+       "regions": ["sin1"]
 }
