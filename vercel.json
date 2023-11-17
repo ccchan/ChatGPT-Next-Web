@@ -13,7 +13,6 @@
                 {
                     "key": "X-Forwarded-For",
                     "value": "$proxy_add_x_forwarded_for",
-                    "regions": ["sfo1"]
                 },
                 {
                     "key": "Host",
