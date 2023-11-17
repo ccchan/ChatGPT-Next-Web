@@ -1,4 +1,7 @@
 {
+  "regions": ["sfo1"]
+},
+{
     "github": {
         "silent": true
     },
@@ -21,7 +24,4 @@
             ]
         }
     ]
-},
-{
-  "regions": ["sfo1"]
 }
